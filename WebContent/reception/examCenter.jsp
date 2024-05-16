@@ -12,7 +12,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>考试中心</title>
+	<title>考试中心1</title>
 	<%
     	String path = request.getContextPath();
 	    String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path;
