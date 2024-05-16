@@ -57,6 +57,9 @@
 								<li>
 									<a href="reception/video.jsp" id="video-link" target="home" studentId="${sessionScope.loginStudent.studentId }" style="color:black; font-size:15px;">视频中心</a>
 								</li>
+								<li>
+									<a href="index.jsp" style="color:black; font-size:15px;">feature</a>
+								</li>
 							</ul>
 							<ul class="nav navbar-nav navbar-right" style="margin-right: 10px;">
 								<li class="dropdown">
